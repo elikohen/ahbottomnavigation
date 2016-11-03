@@ -1,6 +1,10 @@
 ## Changelog
 
-### Newest version: 1.5.1
+### Newest version: 1.5.2
+
+* Added option to disable FloatingActionButton auto-managing
+
+### 1.5.1
 
 * Fixed ripple effect bug (API 21+)
 
